@@ -1,1 +1,1 @@
-# Stock-Market-Analysis
+# Time-Series-Analysis
